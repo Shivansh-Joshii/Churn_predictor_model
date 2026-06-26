@@ -148,7 +148,7 @@ python app.py
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
 ### Home Page
 
@@ -164,7 +164,7 @@ python app.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Hyperparameter tuning
 - XGBoost implementation
@@ -175,7 +175,7 @@ python app.py
 
 ---
 
-## 📚 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Visualization
@@ -189,7 +189,7 @@ python app.py
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Shivansh Joshi**
 
