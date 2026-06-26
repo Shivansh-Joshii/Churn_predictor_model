@@ -120,7 +120,7 @@ Users can:
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository
 
