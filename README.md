@@ -152,7 +152,8 @@ python app.py
 
 ### Home Page
 
-(Add screenshot here)
+<img width="317" height="397" alt="image" src="https://github.com/user-attachments/assets/092094e7-48e6-499f-87c9-038ed1749293" />
+
 
 ### Prediction Result
 
