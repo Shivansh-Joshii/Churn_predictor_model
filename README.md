@@ -1,4 +1,4 @@
-#Customer Churn Prediction System
+**Customer Churn Prediction System**
 
 A Machine Learning project that predicts whether a telecom customer is likely to churn using the Telco Customer Churn dataset. The project includes data preprocessing, exploratory data analysis (EDA), handling class imbalance with SMOTE, model comparison, and a Flask web application for real-time predictions.
 
