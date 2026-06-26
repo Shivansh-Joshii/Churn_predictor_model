@@ -157,11 +157,17 @@ python app.py
 
 ### Prediction Result
 
-(Add screenshot here)
+<img width="323" height="41" alt="image" src="https://github.com/user-attachments/assets/d06765fb-f4fe-4679-a96e-c7cbcd5a1539" />
+
 
 ### EDA Visualizations
 
-(Add screenshots here)
+<img width="821" height="403" alt="image" src="https://github.com/user-attachments/assets/bbb6afb6-3dc7-4b4a-8e47-11b7d69fc030" />
+
+
+<img width="593" height="338" alt="image" src="https://github.com/user-attachments/assets/2ab7f6d5-45e5-4699-9967-288bd7d3f608" />
+
+
 
 ---
 
