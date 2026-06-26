@@ -23,7 +23,7 @@ This project develops a machine learning model that predicts customer churn base
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** Telco Customer Churn
 
@@ -53,15 +53,13 @@ The dataset contains customer information such as:
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Scikit-learn
 - SMOTE (imbalanced-learn)
 - Flask
-- Joblib
 
 ---
 
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 The project includes:
 
@@ -76,32 +74,28 @@ The project includes:
 
 ---
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 - Removed missing values
 - Label Encoding
-- One-Hot Encoding
 - Feature Scaling
 - Train-Test Split
 - SMOTE for class balancing
 
 ---
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following models were trained and compared:
 
 - Decision Tree Classifier
 - Random Forest Classifier
-- Logistic Regression *(if used)*
-- K-Nearest Neighbors *(if used)*
-- Support Vector Machine *(if used)*
 
-The best-performing model was selected based on evaluation metrics.
+The best-performing model was Random Forest Clssifier.
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 Evaluation metrics include:
 
@@ -114,7 +108,7 @@ Evaluation metrics include:
 
 ---
 
-## 🌐 Flask Web Application
+## Flask Web Application
 
 The trained model is deployed using Flask.
 
@@ -123,32 +117,6 @@ Users can:
 - Enter customer information
 - Predict churn probability
 - View prediction instantly through a web interface
-
----
-
-## 📁 Project Structure
-
-```
-customer-churn-prediction/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-├── models/
-│   └── churn_model.pkl
-│
-├── notebooks/
-│   └── churn_eda.ipynb
-│
-├── templates/
-│   └── index.html
-│
-├── static/
-│
-├── screenshots/
-│
-└── data/
-```
 
 ---
 
